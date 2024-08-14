@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Shreeya Khurana\Documents\SHIVEN 2020\CodeForces\.metadata\.plugins\org.eclipse.jdt.core
-3891431116.index
-850275043.index
-1865797976.index

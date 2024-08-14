@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Shreeya Khurana\Documents\SHIVEN 2020\Programming\USACO\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
